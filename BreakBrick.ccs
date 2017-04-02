@@ -1,0 +1,100 @@
+<Solution>
+  <PropertyGroup Name="BreakBrick" Version="3.10.0.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Folder Name="res">
+          <Folder Name="Background">
+            <Image Name="ChooseSceneBackground.png" />
+            <Image Name="FailScene.png" />
+            <Image Name="GameSceneBackground.png" />
+            <Image Name="GameSceneBackground1.png" />
+            <Image Name="GameSceneBackground2.png" />
+            <Image Name="GameSceneBackground3.png" />
+            <Image Name="GameSceneBackground4.png" />
+            <Image Name="GameSceneBackground5.png" />
+            <Image Name="MainSceneBackground.png" />
+            <Image Name="MenuSceneBackground.png" />
+            <Image Name="PassScene.png" />
+            <Image Name="PauseScene.png" />
+            <Image Name="SettingSceneBackground.png" />
+            <Image Name="UpdateSceneBackground.png" />
+          </Folder>
+          <Folder Name="Ball">
+            <Image Name="Ball.png" />
+            <Image Name="Knife.png" />
+            <Image Name="Knife1.png" />
+            <Image Name="Spider.png" />
+            <Image Name="Sun.png" />
+          </Folder>
+          <Folder Name="Brick">
+            <Image Name="Brick.png" />
+            <Image Name="LuckyBrick.png" />
+            <Image Name="PunishBrick.png" />
+            <Image Name="SlowyBrick.png" />
+            <Image Name="SmallBrick.png" />
+            <Image Name="TransparencyBrick.png" />
+          </Folder>
+          <Folder Name="Button">
+            <Image Name="Button_add.png" />
+            <Image Name="Button_add1.png" />
+            <Image Name="Button_Back.png" />
+            <Image Name="Button_Back1.png" />
+            <Image Name="Button_begin.png" />
+            <Image Name="Button_begin1.png" />
+            <Image Name="Button_setting.png" />
+            <Image Name="Button_setting1.png" />
+            <Image Name="Button_skill.png" />
+            <Image Name="Button_skill1.png" />
+            <Image Name="Button_subtract.png" />
+            <Image Name="Button_subtract1.png" />
+          </Folder>
+          <Folder Name="number">
+            <Image Name="0.png" />
+            <Image Name="1.png" />
+            <Image Name="2.png" />
+            <Image Name="3.png" />
+            <Image Name="4.png" />
+            <Image Name="5.png" />
+            <Image Name="6.png" />
+            <Image Name="7.png" />
+            <Image Name="8.png" />
+            <Image Name="9.png" />
+          </Folder>
+          <Folder Name="volume">
+            <Image Name="Volume1.png" />
+            <Image Name="Volume2.png" />
+            <Image Name="Volume3.png" />
+            <Image Name="Volume4.png" />
+            <Image Name="Volume5.png" />
+          </Folder>
+          <Image Name="BigStar.png" />
+          <Image Name="BigStar1.png" />
+          <Image Name="Board.png" />
+          <Image Name="check.png" />
+          <Image Name="close.png" />
+          <File Name="Icon.ico" />
+          <Image Name="Icon.png" />
+          <Project Name="Layer.csd" Type="Layer" />
+          <Image Name="Longboard.png" />
+          <Image Name="LongPaddle.png" />
+          <Image Name="NewBoard.png" />
+          <Image Name="NewPaddle.png" />
+          <Image Name="Paddle.png" />
+          <Image Name="star.png" />
+          <Image Name="Title_Score.png" />
+        </Folder>
+        <Project Name="FirstPart.csd" Type="Layer" />
+        <Project Name="ForthPart.csd" Type="Layer" />
+        <Project Name="ForthPart1.csd" Type="Layer" />
+        <Project Name="Game5.csd" Type="Layer" />
+        <Image Name="HelloWorld.png" />
+        <Project Name="MainScene.csd" Type="Scene" />
+        <Project Name="SecondPart.csd" Type="Layer" />
+        <Project Name="SecondPart1.csd" Type="Layer" />
+        <Project Name="skill.csd" Type="Layer" />
+        <Project Name="ThirdPart.csd" Type="Layer" />
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>

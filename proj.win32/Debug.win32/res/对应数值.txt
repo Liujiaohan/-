@@ -1,0 +1,18 @@
+ball->1
+board->2
+sun->3
+knife->4
+knife1->5
+longBoard->6
+spider->7
+newBoard->8
+buttonBack->9
+
+
+brick 1
+punishBrick 2  
+luckBrick 3
+smallBrick 4
+transparent 5
+slowerBrick 6//改成打不烂
+
